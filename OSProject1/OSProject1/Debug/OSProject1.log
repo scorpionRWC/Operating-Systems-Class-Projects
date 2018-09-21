@@ -1,0 +1,14 @@
+﻿Build started 2/27/2016 8:09:07 PM.
+     1>Project "C:\Users\riley\documents\visual studio 2015\Projects\OSProject1\OSProject1\OSProject1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt OSProject1.cpp
+         OSProject1.cpp
+     1>c:\users\riley\documents\visual studio 2015\projects\osproject1\osproject1\osproject1.cpp(36): warning C4715: 'OS::readData': not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\riley\documents\visual studio 2015\Projects\OSProject1\Debug\OSProject1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\riley\documents\visual studio 2015\Projects\OSProject1\Debug\OSProject1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\riley\documents\visual studio 2015\Projects\OSProject1\Debug\OSProject1.lib" /MACHINE:X86 Debug\OSProject1.obj
+         OSProject1.vcxproj -> C:\Users\riley\documents\visual studio 2015\Projects\OSProject1\Debug\OSProject1.exe
+     1>Done Building Project "C:\Users\riley\documents\visual studio 2015\Projects\OSProject1\OSProject1\OSProject1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.23
